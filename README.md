@@ -1,16 +1,18 @@
-### Hi there 👋
+<h1 align="center">Muito prazer! Meu nome é Miguel. Seja bem-vindo! 👋</h1>
+<h3 align="center">Técnico de TI</h3>
 
-<!--
-**miguelmendes77/miguelmendes77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img alt="html5" src="https://img.shields.io/badge/HTML5-323330?style=for-the-badge&logo=html5&logoColor=red"/>
+  <img alt="css3" src="https://img.shields.io/badge/CSS3-323330?style=for-the-badge&logo=css3&logoColor=blue"/>
+  <img alt="python" src="https://img.shields.io/badge/Python-323330?style=for-the-badge&logo=python&logoColor=yellow"/>
+</div>
 
-Here are some ideas to get you started:
+<div align="center">
+   <img alt="cisco" src="https://img.shields.io/badge/Cisco Packet Tracer-323330?style=for-the-badge&logo=cisco&logoColor=white"/>
+</div><hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://www.linkedin.com/in/miguelmendes77/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:miguelmendesm2077@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://wa.me/5531985110275" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+</div>
