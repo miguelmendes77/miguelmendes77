@@ -14,13 +14,6 @@
 <p align="center">Seja bem-vindo! 👋</p>
 <p align="justify">
 Minha paixão por tecnologia começou na infância, inicialmente com videogames, migrando para computadores, onde descobri uma infinidade de conhecimentos e oportunidades para explorar a tecnologia que tanto me cativava. Busquei formação na área e encontrei um curso técnico integrado ao ensino médio, na Fundação de Ensino de Contagem (FUNEC - RIACHO) onde me formei no ano de 2023, adquirindo uma bagagem de aprendizado e experiências ímpares. Além da tecnologia, sou um entusiasta da leitura e acredito que a aprendizagem contínua é a chave para o sucesso em um mundo em constante mudança. Atualmente estou aprimorando meus conhecimentos em: 
-
-<ul>
-  <li>Infraestrutura de Rede - Internet das Coisas (IoT); Gerenciamento de Redes; Virtualização e Computação em Nuvem; Protocolos de Rede.</li>
-  <li>Programação & Desenvolvimento - Python (pela Microsoft Learn).</li>
-  <li>Cibersegurança (pelo Hackers do Bem).</li>
-  <li>Engenharia de Dados (pela DSA - Data Science Academy).</li>
-</ul>
   
 Estou sempre aberto a discutir novos desafios, oportunidades de colaboração e compartilhar conhecimentos no campo da tecnologia. Sinta-se à vontade para entrar em contato e iniciar uma conversa!
 </p><hr>
