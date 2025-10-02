@@ -2,12 +2,6 @@
 <h3 align="center">Técnico de TI</h3>
 
 <div align="center">
-  <img alt="html5" src="https://img.shields.io/badge/HTML5-323330?style=for-the-badge&logo=html5&logoColor=red"/>
-  <img alt="css3" src="https://img.shields.io/badge/CSS3-323330?style=for-the-badge&logo=css3&logoColor=blue"/>
-  <img alt="python" src="https://img.shields.io/badge/Python-323330?style=for-the-badge&logo=python&logoColor=yellow"/>
-</div>
-
-<div align="center">
    <img alt="cisco" src="https://img.shields.io/badge/Cisco Packet Tracer-323330?style=for-the-badge&logo=cisco&logoColor=white"/>
 </div><hr>
 
