@@ -14,6 +14,20 @@ Além da tecnologia, sou um entusiasta da leitura e acredito que a aprendizagem 
 Estou sempre aberto a discutir novos desafios, oportunidades de colaboração e compartilhar conhecimentos no campo da tecnologia. Sinta-se à vontade para entrar em contato e iniciar uma conversa!
 </p><hr>
 
+<h3 align="center">Tecnologias 🛠️</h3>
+
+<div align="center">
+   <img alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+   <img alt="cisco" src="https://img.shields.io/badge/Cisco Packet Tracer-323330?style=for-the-badge&logo=cisco&logoColor=white"/>
+</div><hr>
+
+<h3 align="center">Projetos 📂</h3>
+
+<p align="center">
+  <a href="https://github.com/miguelmendes77/Python-World-I"><b>Python World I</b></a> - exercícios e anotações dos meus primeiros estudos em Python, organizados por aula.<br><br>
+  <a href="https://github.com/miguelmendes77/Cisco-Packet-Tracer"><b>Cisco Packet Tracer</b></a> - laboratórios de redes: LANs, DNS, DHCP, wireless, VLANs e sub-redes.
+</p><hr>
+
 <div align="center">
   <a href="https://www.linkedin.com/in/miguelmendes77/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:miguelmendesm2077@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
