@@ -19,14 +19,14 @@ Minha jornada na TI começou no suporte técnico e evoluiu para a administraçã
 
 ## 🚀 O que entrego na prática
 
-- 📊 **Monitoramento e Observabilidade:** domínio do Zabbix do zero à produção, da instrumentação de instâncias Windows Server e Linux à criação de templates personalizados, para garantir visibilidade total da saúde da rede.
-- ☁️ **Sistemas e Cloud:** implantação e gestão de plataformas essenciais de ITSM e documentação (GLPI, BookStack) em ambientes On-Premises e Cloud, garantindo centralização e governança da informação.
-- 🛠️ **Administração de ambientes críticos (Linux e Windows):** sólida vivência em servidores Windows (Active Directory, DNS, DHCP) e distribuições Linux, atuando no suporte avançado (N2) e na resolução contínua de gargalos.
-- 🔌 **Infraestrutura física e lógica:** projetos e manutenção de cabeamento estruturado, aliando performance física, organização e segurança do tráfego de dados.
+- 📊 **Monitoramento & Observabilidade:** domínio do Zabbix do zero à produção — desde a instrumentação de instâncias Windows Server e Linux até a criação de templates personalizados para garantir visibilidade total da saúde da rede.
+- ☁️ **Sistemas & Cloud Execution:** implantação e gestão de plataformas essenciais de ITSM e documentação (GLPI, BookStack) em ambientes On-Premises e Cloud, garantindo centralização e governança da informação.
+- 🛠️ **Administração de Ambientes Críticos (Linux & Windows):** sólida vivência em servidores Windows (Active Directory, DNS, DHCP) e distribuições Linux, atuando no suporte avançado (N2) e na resolução contínua de gargalos.
+- 🔌 **Infraestrutura Física & Lógica:** projetos e manutenção de Cabeamento Estruturado, aliando performance física, organização e segurança do tráfego de dados.
 
 ## 🎯 Hoje
 
-Garanto a continuidade do negócio e a alta disponibilidade na operação do SSA Contagem. Defendo que uma TI de alta performance é sustentada por dois pilares inegociáveis: **monitoramento proativo** (para antecipar falhas) e **documentação técnica impecável** (para padronizar processos).
+Garanto a continuidade do negócio e a alta disponibilidade na operação do SSA Contagem. Defendo que uma TI de alta performance é sustentada por dois pilares inegociáveis: **monitoramento proativo** (para anteceder falhas) e **documentação técnica impecável** (para padronizar processos).
 
 Em constante evolução e sempre pronto para projetos desafiadores focados em automação, arquitetura de nuvem e otimização de infraestrutura. ⚙️
 
