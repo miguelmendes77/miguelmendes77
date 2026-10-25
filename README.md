@@ -1,7 +1,7 @@
 <h1 align="center">Prazer, meu nome é Miguel! 👋</h1>
 
 <p align="center">
-  <b>Técnico de TI</b> · entusiasta de tecnologia<br>
+  <b>Técnico de TI</b> · Tecnólogo de Redes de Computadores<br>
 </p>
 
 <div align="center">
