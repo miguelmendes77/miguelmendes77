@@ -1,8 +1,7 @@
-<h1 align="center">Olá, eu sou o Miguel! 👋</h1>
+<h1 align="center">Prazer, meu nome é Miguel! 👋</h1>
 
 <p align="center">
-  <b>Técnico de TI</b> · estudante apaixonado por tecnologia<br>
-  Formado em 2023 no curso técnico integrado ao ensino médio da FUNEC (Riacho)
+  <b>Técnico de TI</b> · entusiasta de tecnologia<br>
 </p>
 
 <div align="center">
